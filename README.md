@@ -6,6 +6,7 @@ Wacky ahh code
 
 
 Features:
+
 -Lossless Text/(text)File encryption/decryption
 
 -Basic string compression
